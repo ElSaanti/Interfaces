@@ -41,7 +41,7 @@ else:
   st.write("No has presionado aun")
 
 st.subheader("Selectbox")
-in_mod = st.selectionbox(
+in_mod = st.selectbox(
   "Selecciona la modalidad",
   ("Audio", "Visual", "Maptico"),
 )
