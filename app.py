@@ -5,7 +5,7 @@ st.title("MI PRIMER PAGINA CON STREAMLIT")
 
 st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfaces multimodales.")
 st.write("Facilmente puedo realizar backend y frontend.")
-Image = Image.open("Interfaces Mult2.png")
+Image = Image.open("Interfaces Mult2.jpg")
 
 st.image(image, caption= "Interfaces multimodales")
 
