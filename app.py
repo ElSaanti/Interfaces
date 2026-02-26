@@ -34,7 +34,7 @@ if modo == "Auditiva":
 if modo == "Tactil":
   st.write("Lo tactil es fundamental en la interfaz")
 
-st.subheader("Uso de botones
+st.subheader("Uso de botones")
 if st.button("Presiona el boton"):
   st.write("Gracias por presionar")
 else:
