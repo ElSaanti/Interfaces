@@ -48,6 +48,6 @@ in_mod = st.selectionbox(
 if in_mod == "Audio":
   set_mod = "Reproducir audio"
 elif in_mod == "Visual":
-  set_mod = "Reproducir Video":
-elif in_mod == "Haptico"
-  set_mod = "Reproducir Haptico":
+  set_mod = "Reproducir Video"
+elif in_mod == "Haptico":
+  set_mod = "Reproducir Haptico"
